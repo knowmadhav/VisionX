@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Testing
+.pytest_cache/
+
+# Generated outputs
+outputs/*
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+*.pt
