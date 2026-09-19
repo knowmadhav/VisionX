@@ -105,7 +105,7 @@ The project uses a Python virtual environment.
 ## Step 1 — Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/knowmadhav/VisionX
 ```
 
 Move into the project directory:
